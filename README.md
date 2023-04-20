@@ -36,7 +36,7 @@ auto v2.0.0版本已全部开发完毕，您可以前往[auto-jdsd 教程&注意
 
 
 
-😍如果本软件切实地帮助到您，欢迎赞助作者[sponsor | Gomorebug's Blog (hugcode.cc)](https://www.hugcode.cc/sponsor/)
+😍如果本软件切实地帮助到您，欢迎赞助作者[sponsor | Gomorebug's Blog (hugcode.cc)](https://www.hugcode.cc/sponsor/)。或者star本仓库。欢迎转发给认识的人供他们使用。
 
 🔗如果您想在此基础上继续实现更多功能，欢迎使用我的源码，并标注作者。
 
