@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>github.png</file>
+        <file>gitee.png</file>
+        <file>nupu.jpg</file>
+
+        <file>ava.png</file>
+    </qresource>
+</RCC>
