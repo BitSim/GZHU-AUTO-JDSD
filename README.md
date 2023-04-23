@@ -1,13 +1,16 @@
 # auto-jdsd
 
-便于广大学子激发对阅读的兴趣
+auto-jdsd v2.0.0的操作如下，你只需要填写邮箱并且点击即可完成:
+![bandicam-2023-04-20-18-17-26-083-Trim-Trim](https://user-images.githubusercontent.com/99679238/233825917-025a1a93-8a30-4ed2-b6a5-47711cdd01e0.gif)
+
+使用教程，下载链接，问题反馈详情请看：[auto-jdsd 教程&注意事项 | Gomorebug's Blog (hugcode.cc)](https://www.hugcode.cc/post/j1205dsd.html)
 
 # v1.0.0
 
-目前该版本是v1.0.0版本，核心代码来自https://github.com/situ2001/gzhu-jdsd-helper
+~~目前该版本是v1.0.0版本~~，核心代码来自https://github.com/situ2001/gzhu-jdsd-helper
 
 目前本仓库已解决问题：可视化UI、非python环境可运行，邮箱提醒功能
-未解决问题：key值仍需用户获取
+~~未解决问题：key值仍需用户获取~~
 
 # ~~v2.0.0~~
 
