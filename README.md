@@ -3,9 +3,10 @@
 auto-jdsd v2.0.0的操作如下，你只需要填写邮箱并且点击即可完成:
 ![bandicam-2023-04-20-18-17-26-083-Trim-Trim](https://user-images.githubusercontent.com/99679238/233825917-025a1a93-8a30-4ed2-b6a5-47711cdd01e0.gif)
 
-使用教程详情请看：[auto-jdsd 教程&注意事项 | Gomorebug's Blog (hugcode.cc)](https://www.hugcode.cc/post/j1205dsd.html)
+**使用教程详情请看**：[auto-jdsd 教程&注意事项 | Gomorebug's Blog (hugcode.cc)](https://www.hugcode.cc/post/j1205dsd.html)
 
-软件下载链接：https://github.com/Gomorebug/GZHU-AUTO-JDSD/releases
+**软件下载链接**：https://github.com/Gomorebug/GZHU-AUTO-JDSD/releases
+
 
 # v1.0.0
 
